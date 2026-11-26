@@ -82,7 +82,7 @@ presentation은 `app/di`에서 UseCase만 꺼내 쓰고 data 구현체를 모른
 - [x] 앱 아이콘 1024×1024 — `python3 tool/make_app_icon.py`로 생성
 - [x] iPhone 전용 설정 (`TARGETED_DEVICE_FAMILY = 1`, patch_platforms.dart)
 - [ ] App Store Connect에서 앱 생성 → 카테고리 "건강 및 피트니스"
-- [ ] 개인정보처리방침 URL — `docs/privacy/index.html`의 `CONTACT_EMAIL` 채운 뒤 GitHub Pages 등 정적 호스팅에 공개
+- [x] 개인정보처리방침 URL — https://5lft.github.io/pillCheck/privacy/ (GitHub Pages, `main` 브랜치 `/docs`)
 - [x] App Privacy 응답 정리: "데이터를 수집하지 않음"
 - [x] 스크린샷 6.9인치 5장 — `store/screenshots/`
 - [x] Release 빌드 확인 (`fvm flutter build ios --release --no-codesign`)

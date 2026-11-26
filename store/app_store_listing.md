@@ -62,8 +62,8 @@ App Store Connect에 그대로 붙여 넣을 수 있게 정리했다. 괄호 안
 
 | 항목 | 값 |
 | --- | --- |
-| 개인정보처리방침 URL (필수) | GitHub Pages 등에 올린 `docs/privacy/index.html` 주소 |
-| 지원 URL (필수) | 방침 페이지와 같은 주소 또는 문의 페이지 |
+| 개인정보처리방침 URL (필수) | https://5lft.github.io/pillCheck/privacy/ |
+| 지원 URL (필수) | https://5lft.github.io/pillCheck/privacy/ |
 | 마케팅 URL | 비워 둠 |
 
 ## 앱 개인정보 보호 (App Privacy)
